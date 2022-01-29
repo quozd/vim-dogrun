@@ -188,6 +188,7 @@ hi GitGutterAdd guifg=#7cbe8c ctermfg=108
 hi GitGutterChange guifg=#a8a384 ctermfg=144
 hi GitGutterDelete guifg=#b871b8 ctermfg=133
 hi GitGutterChangeDelete guifg=#28795c ctermfg=29
+hi GitSignsCurrentLineBlame guifg=#545c8c ctermfg=60 gui=NONE cterm=NONE
 hi fugitiveHeader guifg=#73c1a9 ctermfg=79 gui=bold cterm=bold
 hi ALEWarningSign guifg=#ac8b83 ctermfg=138 gui=bold cterm=bold
 hi ALEInfoSign guifg=#82dabf ctermfg=115 gui=NONE cterm=NONE
